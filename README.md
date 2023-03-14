@@ -3,25 +3,19 @@
 
   &#xa0;
 
-  <!-- <a href="https://loganalyzerv1.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Log Analyzer V1</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{hartpoli}}/log-analyzer-v1?color=56BEB8">
+  <img alt="Github top language" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{hartpoli}}/log-analyzer-v1?color=56BEB8">
+  <img alt="Github language count" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{hartpoli}}/log-analyzer-v1?color=56BEB8">
+  <img alt="Repository size" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{hartpoli}}/log-analyzer-v1?color=56BEB8">
+  <img alt="License" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{hartpoli}}/log-analyzer-v1?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{hartpoli}}/log-analyzer-v1?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{hartpoli}}/log-analyzer-v1?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
