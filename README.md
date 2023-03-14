@@ -9,12 +9,9 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Case</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{hartpoli}}" target="_blank">hartpoli</a>
+  <a href="https://github.com/hartpoli" target="_blank">hartpoli</a>
 </p>
 
 <br>
@@ -23,11 +20,11 @@
 
 "I have created a log analyzer project that can be used to analyze various log files. Some uses of this project include counting the number of incoming requests from each IP address, calculating the average response time for each request, and extracting the top URLs requested in the log file. This project is very useful for those who want to analyze log files effectively and efficiently."
 
-## :sparkles: Features ##
+## :sparkles: CASE ##
 
 :heavy_check_mark: Apache Access;\
 :heavy_check_mark: Response TIME;\
-:heavy_check_mark: Simple Log;
+:heavy_check_mark: Simple Log;\
 :heavy_check_mark: Pandas;
 
 ## :rocket: Technologies ##
