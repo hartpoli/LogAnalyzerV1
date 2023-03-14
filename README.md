@@ -46,8 +46,6 @@ $ cd log-analyzer-v1
 
 ```
 
-## :memo: License ##
-
 &#xa0;
 
 <a href="#top">Back to top</a>
