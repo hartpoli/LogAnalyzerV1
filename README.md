@@ -8,25 +8,6 @@
 <h1 align="center">Log Analyzer V1</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
-
-  <img alt="Github language count" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
-
-  <img alt="Repository size" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
-
-  <img alt="License" src="https://github.com/hartpoli/LogAnalyzerV1?color=56BEB8">
-
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Log Analyzer V1 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
